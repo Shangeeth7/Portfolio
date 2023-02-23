@@ -15,7 +15,12 @@ const Projects = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/projects">Projects</Link></h2>
-          <p>A selection of projects that I&apos;m not too ashamed of</p>
+          <p>Highlighted projects that demonstrate my skills and experience</p>
+          <h3 data-testid="heading">Login Credentials :</h3>
+          <p className="credentials"><b className="tittlee">Admin</b> : moto.service.centerr@gmail.com  |<b className="tittlee"> Password</b> : abcd1234</p>
+          <p className="credentials"><b className="tittlee">User - 1</b> : user.1@gmail.com  |<b className="tittlee"> Password</b> : abcd1234</p>
+          <p className="credentials"><b className="tittlee">User - 2</b> : user.2@gmail.com  |<b className="tittlee"> Password</b> : abcd1234</p>
+          <p><b>Extra Credentials </b>for <u>ONLINE BIKE SERVICE BOOKING</u> (First Project) - <a target="_blank" rel="noreferrer" href="https://github.com/Shangeeth7/msc_caps_client/blob/main/README.md">click here</a></p>
         </div>
       </header>
       {data.map((project) => (

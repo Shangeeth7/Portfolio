@@ -10,6 +10,8 @@ const data = [
       'You can Select a mechanic based on his Experience and Motorcycle Type. '
       + '--Apply for a Job as a Mechanic. --'
       + 'Login Required  ',
+    linkFront: 'https://github.com/Shangeeth7/msc_caps_client',
+    linkBack: 'https://github.com/Shangeeth7/msc_caps_server',
   },
   {
     title: 'Digital Coin',

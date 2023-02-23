@@ -26,12 +26,25 @@ const Index = () => (
           <h2 data-testid="heading"><Link to="/">About Me</Link></h2>
           <h3 data-testid="heading"><Link to="/"><MERN /></Link></h3>
           <p>
-            {'      '}I am Shangeeth and I build websites using <b>M</b>ongo DB ,<b>E</b>xpress JS ,
-            <b>R</b>eact JS and <b>N</b>ode JS.
-            This kinda of developing a Website is known as MERN Stack Development.
+            {'      '}{wishing}! I&apos;m a MERN stack developer with a year of industry experience.
+            I specialize in building dynamic and responsive web applications
+            using <b>M</b>ongo DB ,<b>E</b>xpress JS ,<b>R</b>eact JS and <b>N</b>ode JS. My focus
+            is on creating clean, efficient, and maintainable code that
+            delivers an exceptional user experience.
           </p>
           <p>
-            By the way {wishing} !
+            I&apos;m passionate about staying up-to-date with the latest industry
+            trends and technologies to ensure
+            that my applications are cutting-edge and optimized for performance.
+            Whether you need a simple website
+            or a complex web application, I&apos;m committed to delivering
+            high-quality solutions that exceed your expectations.
+          </p>
+          <p>
+            I&apos;m also proud to hold an intensive Full Stack certification that
+            has equipped me with the skills and knowledge necessary to create exceptional
+            web applications. Let&apos;s work together to develop cutting-edge solutions that
+            will make your web experience remarkable.
           </p>
         </div>
       </header>

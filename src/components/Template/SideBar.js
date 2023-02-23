@@ -14,12 +14,13 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Shangeeth. I like building things.
-        I am a <a target="_blank" rel="noreferrer" href="https://www.kct.ac.in">KCT</a> graduate Seeking an opportunity with an esteemed organization where I can utilize my skills to make life handy and enhance learning in the field of work .
+      <p>Hi, I&apos;m Shangeeth, a MERN stack developer with a degree in Computer
+        Science Engineering and a passion for building dynamic and responsive web applications.
+        As a <a target="_blank" rel="noreferrer" href="https://www.kct.ac.in">KCT</a> graduate, I&apos;m Seeking an opportunity with an esteemed organization where I can utilize my skills to make life handy and enhance learning in the field of work .
       </p>
       <ul className="actions">
         <li>
-          {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/contact" className="button">Contact Me</Link>}
+          {!window.location.pathname.includes('/resume') ? <a target="_blank" rel="noreferrer" href="https://drive.google.com/drive/u/0/folders/13PK-j5lO4XbVYbs8puaZkKNzhUzruZbB" className="button">Resume</a> : <Link to="/contact" className="button">Contact Me</Link>}
         </li>
       </ul>
     </section>
