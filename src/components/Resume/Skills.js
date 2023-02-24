@@ -73,7 +73,7 @@ class Skills extends Component {
         <div className="link-to" id="skills" />
         <div className="title">
           <h3>Skills</h3>
-          <p>Here is a *mostly* honest overview of my skills.
+          <p>Crafting digital experiences that leave a lasting impression
           </p>
         </div>
         <div className="skill-button-container">

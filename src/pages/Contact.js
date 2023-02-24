@@ -17,7 +17,8 @@ const Contact = () => (
         </div>
       </header>
       <div className="email-at">
-        <p>Feel free to get in touch. You can e-mail me at: </p>
+        <p>Let&apos;s get in touch and bring your project to life !</p>
+        <p>E-mail :</p>
         <EmailLink />
         <p>Mobile: </p>
         <a href="call:+91-978-628-7878">+91 97865 87878</a>
