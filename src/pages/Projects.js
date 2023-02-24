@@ -15,7 +15,7 @@ const Projects = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/projects">Projects</Link></h2>
-          <p>Highlighted projects that demonstrate my skills and experience</p>
+          <p>Crafting digital experiences that leave a lasting impression</p>
           <h3 data-testid="heading">Login Credentials :</h3>
           <p className="credentials"><b className="tittlee">Admin</b> : moto.service.centerr@gmail.com  |<b className="tittlee"> Password</b> : abcd1234</p>
           <p className="credentials"><b className="tittlee">User - 1</b> : user.1@gmail.com  |<b className="tittlee"> Password</b> : abcd1234</p>
