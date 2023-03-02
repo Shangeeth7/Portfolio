@@ -1,11 +1,10 @@
 {
-  "name": "personal-site",
+  "name": "portfolio",
   "version": "4.0.0",
-  "homepage": "https://mldangelo.com/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mldangelo/personal-site.git"
+    "url": "https://github.com/Shangeeth7/shangeeth_portfolio_feb-2023"
   },
   "engines": {
     "node": ">=14.x"
