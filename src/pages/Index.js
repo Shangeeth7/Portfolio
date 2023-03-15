@@ -26,8 +26,8 @@ const Index = () => (
           <h2 data-testid="heading"><Link to="/">About Me</Link></h2>
           <h3 data-testid="heading"><Link to="/"><MERN /></Link></h3>
           <p>
-            {'      '}{wishing}! I&apos;m a MERN stack developer with a year of industry experience.
-            I specialize in building dynamic and responsive web applications
+            {'      '}{wishing}! I&apos;m a MERN stack developer with a strong passion for creating dynamic
+            and responsive web applications
             using <b>M</b>ongo DB ,<b>E</b>xpress JS ,<b>R</b>eact JS and <b>N</b>ode JS. My focus
             is on creating clean, efficient, and maintainable code that
             delivers an exceptional user experience.
@@ -49,7 +49,8 @@ const Index = () => (
         </div>
       </header>
       <p> Welcome to my website. You can check out my  {'  '}
-        <Link to="/resume">Resume</Link> , {'   '}
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/drive/u/0/folders/13PK-j5lO4XbVYbs8puaZkKNzhUzruZbB">Resume</a> , {'   '}
+        <Link to="/resume">Skills</Link> , {'   '}
         <Link to="/projects">Projects</Link> , {'   '}
         or <Link to="/contact">Contact</Link> me.
       </p>
