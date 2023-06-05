@@ -1,6 +1,6 @@
 const degrees = [
   {
-    link: 'https://drive.google.com/drive/u/0/folders/13PK-j5lO4XbVYbs8puaZkKNzhUzruZbB',
+    link: "https://drive.google.com/drive/folders/1yNCw7e0_SgHAeC257KVcp38nekl13nzd",
   },
 ];
 
